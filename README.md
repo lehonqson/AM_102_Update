@@ -1,3 +1,3 @@
-# AM_102_Update
+# LumiRender_Update
 
 Release files for AM_102 updater.
